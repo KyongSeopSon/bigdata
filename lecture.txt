@@ -21,3 +21,4 @@ GTM 태그/트리거/변수 추가 시 명명규칙 : 각 이름 뒤에 본인 �
 이벤트 액션 : 클릭
 이벤트 라벨 : {{클릭한 스토어 명칭}}
 
+document.querySelector(".join_link_wrap.ng-scope li:nth-child(3)").innerHTML += "<div id='layer' style='position: absolute; top: -20px; left:30px; width : 70px; height : 25px; line-height : 25px; border : solid 1px #ccc; background-color : red; color : #fff; font-size : 9pt; font-family : Malgun Gothic; font-weight : bold; text-align : center'><a href='#'>First Club</div>";
